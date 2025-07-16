@@ -1,6 +1,7 @@
 ![Matrix Plugin](https://img.shields.io/badge/Matrix-Plugin-blue)
 ![Checkmk Compatible](https://img.shields.io/badge/Checkmk-Compatible-brightgreen)
 
+<img src="images/logo-checkmk-matrix-notify.png" alt="Checkmk Matrix Notify Teaser" width="300" align="right" hspace="30" vspace="20"/>
 This repository provides a shell script for sending notifications from Checkmk to a Matrix room using the Matrix Client-Server API. It supports configuration via custom user attributes and fallback parameters, making it suitable for flexible and secure integration into your monitoring environment.
 
 <!-- TOC -->
